@@ -1,0 +1,20 @@
+.heading {
+	font-size: 23px;
+	width: 100%;
+	margin: 0px;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #f53550, #ff0093, #f90087, #f53550);
+}
+
+.text_input{
+	width:500px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 400px;
+    margin-top: 115px;
+}
